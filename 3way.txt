@@ -1,8 +1,9 @@
 first test
 
-
-
-
+<<<<<<< HEAD
 
 
 final test
+=======
+second test
+>>>>>>> 3way
